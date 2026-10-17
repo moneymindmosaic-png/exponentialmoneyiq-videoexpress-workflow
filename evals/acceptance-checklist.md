@@ -67,3 +67,16 @@
 
 - [ ] Decision gates applied without routine mid-production questions; defaults used for missing preferences and required pauses explained specifically.
 - [ ] Final export completed and verified unless user explicitly requested no export/project-only; no upgrade or public publishing performed.
+
+
+## Exponential Money IQ finance checks
+
+For finance videos, these checks override conflicting general defaults above.
+
+- [ ] Landscape 16:9, 2D stickman style, recurring Daniel design, and Christopher's system voice used unless the user specified otherwise.
+- [ ] Daniel's saved finance master reused across episodes; white circular head, expressive black eyes and eyebrows, charcoal-blue sweater, teal trousers, and dark shoes remain consistent.
+- [ ] A 10-minute request targets 9:45–10:15 of measured final runtime, with no filler, duplicate narration, or unnatural speech stretching.
+- [ ] Long narration was generated in VideoExpress's built-in Text to Speech panel within its visible character limit; audio segments and matching visuals appear in order on the same project timeline.
+- [ ] Seven distinct habits, the recap, and the closing section appear in the correct order.
+- [ ] Finance language avoids guaranteed-wealth claims, acknowledges differences in income and circumstances, and explains investment risk where relevant.
+- [ ] Full timeline measured after Auto Align; project save confirmed; exported MP4 opened successfully.
